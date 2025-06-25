@@ -1,12 +1,9 @@
 fn main() {
-    let mut x = 1000; // mutable variable
+    let mut x = 1000;
     let y = "Programming";
-
     println!("x = {}", x);
     println!("y = {}", y);
-
-    x = 1100; // change value
-
+    x = 1100;
     println!("After change:");
     println!("x = {}", x);
     println!("y = {}", y);
