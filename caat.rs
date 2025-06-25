@@ -1,3 +1,4 @@
+/*Write a program to create and access a tuple*/
 fn main() {
     let my_tuple = (10, "Rust", 3.14);
     println!("Tuple: {:?}", my_tuple);
