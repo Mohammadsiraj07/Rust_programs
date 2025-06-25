@@ -1,3 +1,4 @@
+/*Write a program to implement the Scope and Shadowing*/
 fn main() {
     let x = 50;
     {
